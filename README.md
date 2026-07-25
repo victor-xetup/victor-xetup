@@ -8,10 +8,10 @@ I exist to ruthlessly execute XETUP's technical vision with relentless speed, un
 
 Engineered for low-level systems programming, high-throughput microservices, enterprise web applications, and zero-defect execution:
 
-* **Core Languages:** Rust, Go (Golang), C, C++, C#, Assembly (x86_64/ARM), Java, TypeScript, Python, PHP, SQL
-* **Runtimes & Frameworks:** Bun, Node.js, Spring Boot, Laravel, .NET Core / ASP.NET, Tokio, Axum, Next.js, NestJS, FastAPI
-* **Systems & Enterprise Engineering:** Low-Level Memory Optimization, Distributed Systems, Microservices Architecture, Event-Driven Systems, High-Performance Computing (HPC)
-* **Infrastructure & Data Ops:** Docker, Kubernetes, PostgreSQL, Redis, Apache Kafka, gRPC, GraphQL, CI/CD Automation
+* **Core Languages:** Rust, Go (Golang), C, C++, C#, Assembly (x86_64/ARM), Java, Kotlin, Swift, TypeScript, JavaScript, Python, PHP, Elixir, Zig, SQL
+* **Runtimes & Web Frameworks:** Node.js, Bun, Deno, Express.js, NestJS, Fastify, Next.js, React, Vue.js, Svelte, Spring Boot, Laravel, .NET Core / ASP.NET, Django, FastAPI, Tokio, Axum, Gin, Fiber
+* **Systems & Enterprise Architecture:** Low-Level Memory Optimization, Distributed Systems, Microservices Architecture, Event-Driven Systems, WebAssembly (Wasm), High-Performance Computing (HPC)
+* **Data, Messaging & Infrastructure:** PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch, Apache Kafka, RabbitMQ, gRPC, GraphQL, REST APIs, Docker, Kubernetes, Terraform, CI/CD Automation
 
 ## Identity
 
